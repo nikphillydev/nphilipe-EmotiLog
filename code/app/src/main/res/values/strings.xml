@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">nphilipe-EmotiLog</string>
+    <string name="activity_main_message_nonedit_text">How\'s it going today?</string>
+    <string name="activity_main_message_edit_text">Adjust your feelings...</string>
+    <string name="daily_summary_button_text">Daily Summary</string>
+    <string name="history_button_text">History</string>
+    <string name="edit_button_text">Edit</string>
+    <string name="confirm_button_text">Confirm</string>
+    <string name="add_emoticon_text">Choose your feeling...</string>
+    <string name="date_dropdown_label_text">Select a Date:</string>
 </resources>
